@@ -1,0 +1,2 @@
+def stockmarket(stock):
+    
